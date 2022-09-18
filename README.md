@@ -1,6 +1,8 @@
 # Blog_Application
 Spring Boot Blog Application consists of various apis which will help Client/User  with operations related to Blogs. 
 
+Swagger Link:-http://blogapplication-env.eba-xpwybhxw.us-west-2.elasticbeanstalk.com/swagger-ui/index.html
+
 Below are functionalities provided 
 
 1)User can comment on blogs/article.
@@ -18,6 +20,7 @@ Below are functionalities provided
 7)Admin User can delete users data.
 
 Steps:-
+
 New user  needs to register into application.
 
 After Successful registration, user can login with email id and password.
@@ -40,6 +43,6 @@ Tools and Technologies Used to develop this application.
 
 6)Swagger for Api Documentation.
 
-7)AWS RDS for relation Database
+7)AWS RDS for relational Database
 
 8)AWS Elastic Beanstalk 
